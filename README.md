@@ -29,4 +29,4 @@ DScover 22-2 미니프로젝트 C조 결과물
 |LSTM|0.36|90%|
 
 ### Presentation File
-![Presentation PDF](https://drive.google.com/file/d/18rh-eSkV2xqK8r0WwZFQn3DdtxMGvi4P/view?usp=share_link)
+[Presentation PDF](https://drive.google.com/file/d/18rh-eSkV2xqK8r0WwZFQn3DdtxMGvi4P/view?usp=share_link)
